@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/99f73d68-6ac4-4431-abe4-dec3b565a2fc)# CAT: Coordinating Anatomical-Textual Prompts for Multi-Organ and Tumor Segmentation
+# CAT: Coordinating Anatomical-Textual Prompts for Multi-Organ and Tumor Segmentation
  Zhongzhen Huang, [Yankai Jiang](https://scholar.google.com/citations?user=oQKcL_oAAAAJ), [Rongzhao Zhang](https://scholar.google.com/citations?user=NMp31uMAAAAJ), [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ), [Xiaofan Zhang](https://scholar.google.com/citations?user=30e95fEAAAAJ)
 
   <p align="center">
