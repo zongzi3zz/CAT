@@ -64,10 +64,10 @@ We provide two model weights, hoping that the weights trained with full data wou
   ```shell
   bash scripts/inference.sh
   ```
-If you want to use [the Full weight](), you need to add `--only_last'
+If you want to use [the Full weight](), you need to add `--only_last`
 
 ## Citation
-If you find MG-LLaVA useful, please cite using this BibTeX:
+If you find CAT useful, please cite using this BibTeX:
 ```bibtex
 @article{huang2024cat,
   title={CAT: Coordinating Anatomical-Textual Prompts for Multi-Organ and Tumor Segmentation},
