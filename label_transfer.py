@@ -49,7 +49,7 @@ from utils.utils import get_key
 import json
 
 ORGAN_DATASET_DIR = 'DATA_ROOT'
-ORGAN_LIST = './data/Total.json'
+ORGAN_LIST = './datalist/Total_data.json'
 NUM_WORKER = 16
 NUM_CLASS = 32
 TRANSFER_LIST = ['16']
