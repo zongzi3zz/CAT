@@ -14,6 +14,9 @@
   </p>
 <br />
 
+## 🎉 News
+- **\[2024/09\]** CAT is accepted to NeurIPS 2024!
+
 ## 🛠️ Quick Start
 
 ### Installation
@@ -42,6 +45,7 @@
 1. Please refer to [CLIP-Driven](https://github.com/ljwztc/CLIP-Driven-Universal-Model) to organize the downloaded datasets.
 2. Modify [ORGAN_DATASET_DIR](https://github.com/zongzi3zz/CAT/blob/2146b2e972d0570956c52317a75c823891a4df2c/label_transfer.py#L51) and [NUM_WORKER](https://github.com/zongzi3zz/CAT/blob/2146b2e972d0570956c52317a75c823891a4df2c/label_transfer.py#L53) in label_transfer.py  
 3. `python -W ignore label_transfer.py`
+4. The example of data configure for training and evaluation can be seen in [datalist](https://github.com/zongzi3zz/CAT/tree/main/datalist)
 ### Model Weights
 | Data | Download |
 |  ----   |  ----  |
@@ -49,13 +53,14 @@
 | Full | [link]() |
 
 ### Train & Evaluation
-CAT is trained on 8×A100 GPUs. You can use the following command:
+The entire training process takes approximately 4 days using 8×A100 GPUs.
 - **Train Pipeline**: 
-
+  Set the parameter [`data_root`](https://github.com/zongzi3zz/CAT/blob/7fe7477b773ca1d83e6f47ff8a7aa90b6a392dec/train_CAT.py#L236) and run:
   ```shell
   bash scripts/train.sh
   ```
-We provide two model weights, hoping that the weights trained with full data would support organ and tumor segmentation tasks in other scenarios.
+We provide two model weights, hoping that the weights trained with full data would support organ and tumor segmentation tasks in other scenarios. 
+Set the parameter `pretrain_weights` and run:
 - **Evaluation**
   ```shell
   bash scripts/test.sh
@@ -77,4 +82,4 @@ If you find CAT useful, please cite using this BibTeX:
 }
 ```
 ## Acknowledgement
-- [CLIP-Driven-Universal-Model]([https://github.com/InternLM/xtuner](https://github.com/ljwztc/CLIP-Driven-Universal-Model)): the codebase we built upon.
+- [CLIP-Driven-Universal-Model](https://github.com/ljwztc/CLIP-Driven-Universal-Model): the codebase we built upon.
