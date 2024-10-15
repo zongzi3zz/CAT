@@ -18,14 +18,12 @@
 
 ### Installation
 
-- It is recommended to build a Python-3.10 virtual environment using conda
+- It is recommended to build a Python-3.9 virtual environment using conda
 
   ```bash
-  conda create --name cat-env python=3.10 -y
-  conda activate mgllava-env
   git clone https://github.com/zongzi3zz/CAT.git
   cd CAT
-  pip install -r requirement.txt
+  conda env create -f environment.yml
 
 ### Dataset Preparation
 - 01 [Multi-Atlas Labeling Beyond the Cranial Vault - Workshop and Challenge (BTCV)](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)
@@ -40,3 +38,7 @@
 - 10 [Decathlon (Liver, Lung, Pancreas, HepaticVessel, Spleen, Colon](https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2)
 - 11 [CT volumes with multiple organ segmentations (CT-ORG)](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080890)
 - 12 [AbdomenCT 12organ](https://zenodo.org/records/7860267)
+### Dataset Pre-Process
+1. Please refer to [CLIP-Driven](https://github.com/ljwztc/CLIP-Driven-Universal-Model/tree/main) to organize the downloaded datasets.
+2. Modify [ORGAN_DATASET_DIR](https://github.com/ljwztc/CLIP-Driven-Universal-Model/blob/main/label_transfer.py#L51C1-L51C18) and [NUM_WORKER](https://github.com/ljwztc/CLIP-Driven-Universal-Model/blob/main/label_transfer.py#L53) in label_transfer.py  
+3. `python -W ignore label_transfer.py`
