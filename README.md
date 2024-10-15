@@ -39,6 +39,42 @@
 - 11 [CT volumes with multiple organ segmentations (CT-ORG)](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080890)
 - 12 [AbdomenCT 12organ](https://zenodo.org/records/7860267)
 ### Dataset Pre-Process
-1. Please refer to [CLIP-Driven](https://github.com/ljwztc/CLIP-Driven-Universal-Model/tree/main) to organize the downloaded datasets.
-2. Modify [ORGAN_DATASET_DIR](https://github.com/ljwztc/CLIP-Driven-Universal-Model/blob/main/label_transfer.py#L51C1-L51C18) and [NUM_WORKER](https://github.com/ljwztc/CLIP-Driven-Universal-Model/blob/main/label_transfer.py#L53) in label_transfer.py  
+1. Please refer to [CLIP-Driven](https://github.com/ljwztc/CLIP-Driven-Universal-Model) to organize the downloaded datasets.
+2. Modify [ORGAN_DATASET_DIR](https://github.com/zongzi3zz/CAT/blob/2146b2e972d0570956c52317a75c823891a4df2c/label_transfer.py#L51) and [NUM_WORKER](https://github.com/zongzi3zz/CAT/blob/2146b2e972d0570956c52317a75c823891a4df2c/label_transfer.py#L53) in label_transfer.py  
 3. `python -W ignore label_transfer.py`
+### Model Weights
+| Data | Download |
+|  ----   |  ----  |
+| Partial  | [link]() |
+| Full | [link]() |
+
+### Train & Evaluation
+CAT is trained on 8×A100 GPUs. You can use the following command:
+- **Train Pipeline**: 
+
+  ```shell
+  bash scripts/train.sh
+  ```
+We provide two model weights, hoping that the weights trained with full data would support organ and tumor segmentation tasks in other scenarios.
+- **Evaluation**
+  ```shell
+  bash scripts/test.sh
+  ```
+- **Inference**
+  ```shell
+  bash scripts/inference.sh
+  ```
+If you want to use [the Full weight](), you need to add `--only_last'
+
+## Citation
+If you find MG-LLaVA useful, please cite using this BibTeX:
+```bibtex
+@article{huang2024cat,
+  title={CAT: Coordinating Anatomical-Textual Prompts for Multi-Organ and Tumor Segmentation},
+  author={Huang, Zhongzhen and Jiang, Yankai and Zhang, Rongzhao and Zhang, Shaoting and Zhang, Xiaofan},
+  journal={arXiv preprint arXiv:2406.07085},
+  year={2024}
+}
+```
+## Acknowledgement
+- [CLIP-Driven-Universal-Model]([https://github.com/InternLM/xtuner](https://github.com/ljwztc/CLIP-Driven-Universal-Model)): the codebase we built upon.
