@@ -26,7 +26,7 @@
   ```bash
   git clone https://github.com/zongzi3zz/CAT.git
   cd CAT
-  conda env create -f environment.yml
+  conda env create -f env.yml
 
 ### Dataset Preparation
 - 01 [Multi-Atlas Labeling Beyond the Cranial Vault - Workshop and Challenge (BTCV)](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)
