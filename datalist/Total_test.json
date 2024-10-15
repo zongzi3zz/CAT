@@ -1,0 +1,774 @@
+[
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_10.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_10.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_104.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_104.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_112.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_112.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_113.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_113.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_119.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_119.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_120.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_120.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_126.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_126.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_129.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_129.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_130.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_130.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_15.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_15.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_17.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_17.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_20.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_20.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_22.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_22.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_42.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_42.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_43.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_43.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_44.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_44.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_48.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_48.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_5.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_5.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_50.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_50.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_54.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_54.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_55.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_55.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_56.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_56.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_72.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_72.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_76.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_76.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_77.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_77.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_78.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_78.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_81.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_81.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_82.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_82.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_85.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_85.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_88.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_88.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_89.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_89.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_92.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_92.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_93.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_93.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_94.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_94.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task03_Liver/imagesTr/liver_99.nii.gz",
+        "label": "10_Decathlon/Task03_Liver/labelsTr/liver_99.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_001.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_001.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_026.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_026.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_031.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_031.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_034.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_034.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_038.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_038.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_046.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_046.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_048.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_048.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_069.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_069.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_070.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_070.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_080.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_080.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_083.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_083.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task06_Lung/imagesTr/lung_084.nii.gz",
+        "label": "10_Decathlon/Task06_Lung/labelsTr/lung_084.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_005.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_005.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_006.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_006.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_010.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_010.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_015.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_015.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_028.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_028.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_040.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_040.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_046.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_046.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_048.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_048.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_051.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_051.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_071.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_071.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_081.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_081.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_083.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_083.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_088.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_088.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_095.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_095.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_099.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_099.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_103.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_103.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_109.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_109.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_117.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_117.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_120.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_120.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_122.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_122.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_127.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_127.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_130.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_130.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_147.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_147.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_155.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_155.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_167.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_167.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_199.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_199.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_204.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_204.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_215.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_215.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_217.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_217.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_222.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_222.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_230.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_230.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_231.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_231.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_256.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_256.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_261.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_261.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_262.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_262.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_265.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_265.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_274.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_274.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_275.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_275.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_277.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_277.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_291.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_291.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_295.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_295.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_304.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_304.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_313.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_313.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_321.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_321.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_346.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_346.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_347.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_347.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_360.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_360.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_370.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_370.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_372.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_372.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_376.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_376.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_398.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_398.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_400.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_400.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_410.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_410.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task07_Pancreas/imagesTr/pancreas_414.nii.gz",
+        "label": "10_Decathlon/Task07_Pancreas/labelsTr/pancreas_414.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_005.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_005.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_007.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_007.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_010.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_010.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_018.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_018.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_030.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_030.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_031.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_031.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_049.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_049.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_066.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_066.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_075.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_075.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_078.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_078.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_080.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_080.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_081.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_081.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_086.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_086.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_087.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_087.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_089.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_089.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_091.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_091.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_092.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_092.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_115.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_115.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_133.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_133.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_157.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_157.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_165.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_165.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_166.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_166.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_184.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_184.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_193.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_193.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_194.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_194.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_195.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_195.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_208.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_208.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_209.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_209.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_210.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_210.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_214.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_214.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_217.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_217.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_218.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_218.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_223.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_223.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_231.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_231.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_262.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_262.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_282.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_282.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_287.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_287.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_318.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_318.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_319.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_319.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_320.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_320.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_322.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_322.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_324.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_324.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_325.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_325.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_333.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_333.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_340.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_340.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_341.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_341.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_358.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_358.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_359.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_359.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_367.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_367.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_369.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_369.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_375.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_375.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_383.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_383.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_384.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_384.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_396.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_396.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_397.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_397.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_406.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_406.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_423.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_423.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_429.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_429.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_432.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_432.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_438.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_438.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_446.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_446.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_454.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_454.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task08_HepaticVessel/imagesTr/hepaticvessel_456.nii.gz",
+        "label": "10_Decathlon/Task08_HepaticVessel/labelsTr/hepaticvessel_456.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_13.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_13.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_14.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_14.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_17.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_17.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_2.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_2.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_21.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_21.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_28.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_28.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_41.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_41.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_46.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_46.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_56.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_56.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task09_Spleen/imagesTr/spleen_6.nii.gz",
+        "label": "10_Decathlon/Task09_Spleen/labelsTr/spleen_6.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_005.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_005.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_007.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_007.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_022.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_022.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_031.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_031.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_033.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_033.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_059.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_059.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_069.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_069.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_072.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_072.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_077.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_077.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_081.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_081.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_095.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_095.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_096.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_096.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_107.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_107.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_114.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_114.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_120.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_120.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_163.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_163.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_187.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_187.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_214.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_214.nii.gz"
+    },
+    {
+        "img": "10_Decathlon/Task10_Colon/imagesTr/colon_218.nii.gz",
+        "label": "10_Decathlon/Task10_Colon/labelsTr/colon_218.nii.gz"
+    }
+]
