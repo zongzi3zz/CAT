@@ -47,10 +47,11 @@
 3. `python -W ignore label_transfer.py`
 4. The example of data configure for training and evaluation can be seen in [datalist](https://github.com/zongzi3zz/CAT/tree/main/datalist)
 ### Model Weights
+The weights used for train and inference are provided in [GoogleDrive](https://drive.google.com/drive/folders/1fpFyF4F4HrpwKNpPDeH7nXrjo89LC0CG?usp=drive_link) and [Baidu]().
 | Data | Download |
 |  ----   |  ----  |
-| Partial  | [link]() |
-| Full | [link]() |
+| Partial  | [link](https://drive.google.com/file/d/1wx9lIRfMnktkP0AcCbaBEDaiQgqafk9l/view?usp=drive_link) |
+| Full | [link](https://drive.google.com/file/d/12aSwZduf-aS1GQ9Sn3St0Zwn_sIHwxhE/view?usp=drive_link) |
 
 ### Train & Evaluation
 The entire training process takes approximately 4 days using 8×A100 GPUs.
