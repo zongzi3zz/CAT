@@ -46,8 +46,10 @@
 2. Modify [ORGAN_DATASET_DIR](https://github.com/zongzi3zz/CAT/blob/2146b2e972d0570956c52317a75c823891a4df2c/label_transfer.py#L51) and [NUM_WORKER](https://github.com/zongzi3zz/CAT/blob/2146b2e972d0570956c52317a75c823891a4df2c/label_transfer.py#L53) in label_transfer.py  
 3. `python -W ignore label_transfer.py`
 4. The example of data configure for training and evaluation can be seen in [datalist](https://github.com/zongzi3zz/CAT/tree/main/datalist)
+### Prompt Feats
+We provide the prompt feats in [Baidu](https://pan.baidu.com/s/1JoR-esWoRrFrxsSpacq7bw?pwd=mbae) (code: `mbae`).
 ### Model Weights
-The weights used for train and inference are provided in [GoogleDrive](https://drive.google.com/drive/folders/1fpFyF4F4HrpwKNpPDeH7nXrjo89LC0CG?usp=drive_link) and [Baidu]().
+The weights used for train and inference are provided in [GoogleDrive](https://drive.google.com/drive/folders/1fpFyF4F4HrpwKNpPDeH7nXrjo89LC0CG?usp=drive_link).
 | Data | Download |
 |  ----   |  ----  |
 | Partial  | [link](https://drive.google.com/file/d/1wx9lIRfMnktkP0AcCbaBEDaiQgqafk9l/view?usp=drive_link) |
