@@ -47,7 +47,7 @@
 3. `python -W ignore label_transfer.py`
 4. The example of data configure for training and evaluation can be seen in [datalist](https://github.com/zongzi3zz/CAT/tree/main/datalist)
 ### Prompt Feats
-We provide the prompt feats in [Baidu](https://pan.baidu.com/s/1JoR-esWoRrFrxsSpacq7bw?pwd=mbae) (code: `mbae`).
+We provide the prompt feats in [BaiduNetdisk](https://pan.baidu.com/s/1JoR-esWoRrFrxsSpacq7bw?pwd=mbae) (code: `mbae`).
 ### Model Weights
 The weights used for train and inference are provided in [GoogleDrive](https://drive.google.com/drive/folders/1fpFyF4F4HrpwKNpPDeH7nXrjo89LC0CG?usp=drive_link).
 | Data | Download |
@@ -72,7 +72,7 @@ Set the parameter `pretrain_weights` and run:
   ```shell
   bash scripts/inference.sh
   ```
-If you want to use [the Full weight](), you need to add `--only_last`
+If you want to use [the Full weight](https://drive.google.com/file/d/12aSwZduf-aS1GQ9Sn3St0Zwn_sIHwxhE/view?usp=drive_link), you need to add `--only_last`
 
 ## Citation
 If you find CAT useful, please cite using this BibTeX:
