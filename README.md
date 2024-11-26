@@ -8,7 +8,7 @@
     <a href='https://github.com/zongzi3zz/CAT/'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=webpack' alt='Project Page'>
     </a>
-    <a href='https://www.youtube.com/watch?v=WI-65Jk0j50'>
+    <a href='https://youtu.be/pLiBnWpk5iY'>
       <img src='https://img.shields.io/badge/Video-YouTube-red?style=flat&logo=YouTube' alt='Video'>
     </a>
   </p>
