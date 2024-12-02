@@ -87,8 +87,6 @@ imageio==2.34.0
 importlib_metadata==7.1.0
 importlib_resources==6.4.0
 iopath==0.1.10
-isic-cli==0.0.0
-isic-metadata==0.0.0
 itk==5.3.0
 itk-core==5.3.0
 itk-filtering==5.3.0
