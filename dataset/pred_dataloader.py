@@ -201,9 +201,12 @@ def get_loader(args):
     test_img = []
     test_name = []
     for item in args.dataset_list:
-        for line in open(args.data_txt_path + item +'_test.txt'):
-            name = line.strip().split()[1].split('.')[0]
-            test_img.append(args.data_root_path + line.strip().split()[0])
+        json_path = os.path.join(args.data_file_path, item+'_test.json')
+        data = json.load(open(json_path))
+    
+        for each in data:
+            name = each["img"].split('.')[0]
+            test_img.append(os.path.join(args.data_root_path, each["img"]))
             test_name.append(name)
     data_dicts_test = [{'image': image, 'name': name}
                 for image, name in zip(test_img, test_name)]
@@ -216,9 +219,3 @@ def get_loader(args):
         pred_dataset = Dataset(data=data_dicts_test, transform=pred_transforms)
     pred_loader = DataLoader(pred_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=list_data_collate)
     return pred_loader, pred_transforms
-
-if __name__ == "__main__":
-    train_loader, test_loader = partial_label_dataloader()
-    for index, item in enumerate(test_loader):
-        print(item['image'].shape, item['label'].shape, item['task_id'])
-        input()
