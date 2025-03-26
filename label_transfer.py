@@ -261,12 +261,12 @@ label_process = Compose(
         LoadImaged(keys=["image", "label", "label_raw"]),
         EnsureChannelFirstd(keys=["image", "label", "label_raw"]),
         Orientationd(keys=["image", "label", "label_raw"], axcodes="RAS"),
-        ToTemplatelabeld(keys=['label']),
-        RL_Splitd(keys=['label']),
         Spacingd(
             keys=["image", "label", "label_raw"], 
             pixdim=(1.5, 1.5, 1.5), 
             mode=("bilinear", "nearest", "nearest"),), # process h5 to here
+        ToTemplatelabeld(keys=['label']),
+        RL_Splitd(keys=['label']),
     ]
 )
 
