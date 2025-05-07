@@ -15,6 +15,7 @@
 <br />
 
 ## 🎉 News
+- **\[2025/04\]** CAT is adopted as the [baseline](https://github.com/zongzi3zz/CAT_SegFM3DText_Challenge/tree/main) of Foundation Models for Text-guided 3D Biomedical Image Segmentation
 - **\[2024/09\]** CAT is accepted to NeurIPS 2024!
 
 ## 🛠️ Quick Start
